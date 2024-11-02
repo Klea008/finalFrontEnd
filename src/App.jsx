@@ -10,8 +10,7 @@ import AdminHome from './pages/AdminHome'
 import Profile from './pages/Profile'
 import NotFound from './pages/NotFound'
 import Login from './pages/Login'
-import Signup from './pages/Signup'
-import SingleBook from './pages/SingleBook'
+import Signup from './pages/SignUp'
 import ListDetails from './pages/Lists Related/ListDetails';
 import Discovery from './pages/Lists Related/Discovery';
 import ListPreview from './pages/Lists Related/ListPreview';
